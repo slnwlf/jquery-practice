@@ -1,10 +1,11 @@
 body {
 	font-size: 20px; 
+	background-color: lightblue;
 }
 div {
-	border-style: solid;
+/*	border-style: solid;
 	border-width: 1px;
-	border-color: blue; 
+	border-color: blue; */
 	padding: .5em;
 }
 .column {
