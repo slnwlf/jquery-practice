@@ -1,5 +1,4 @@
 body {
-	background-color: skyblue; 
 	font-size: 20px; 
 }
 div {
@@ -35,4 +34,14 @@ div {
    display: block; 
    height: 0; 
    clear: both;
+}
+.da-list {
+	height: 50px;
+	width: 200px;
+	background-color: white; 
+	margin: 4px; 
+	border: 2px black solid;
+}
+.no-style {
+	list-style: none; 
 }
