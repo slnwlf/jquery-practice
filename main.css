@@ -1,0 +1,38 @@
+body {
+	background-color: skyblue; 
+	font-size: 20px; 
+}
+div {
+	border-style: solid;
+	border-width: 1px;
+	border-color: blue; 
+	padding: .5em;
+}
+.column {
+	height: 120px; 
+}
+#red-box {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	float: right;
+}
+#orange-box {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	float: right;
+}
+#yellow-box {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	float: right;
+}
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
