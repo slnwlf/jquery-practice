@@ -43,6 +43,9 @@ div {
 	margin: 4px; 
 	border: 2px black solid;
 }
+.da-list:active {
+	border: 5px blue solid;
+}
 .no-style {
 	list-style: none; 
 }
