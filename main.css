@@ -29,6 +29,12 @@ div {
 	background-color: yellow;
 	float: right;
 }
+#green-box {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	float: right;
+}
 .clearfix:after { 
    content: "."; 
    visibility: hidden; 

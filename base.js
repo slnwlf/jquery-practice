@@ -43,4 +43,8 @@ $(document).ready(function() {
 		$(this).css("color", "black");
 	});
 
+	$("#green-box").hover(function(){
+		$(this).css("background-color", "pink");
+	});
+
 });
