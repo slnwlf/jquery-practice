@@ -35,6 +35,18 @@ div {
 	background-color: green;
 	float: right;
 }
+#blue-box {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	float: right;
+}
+#indigo-box {
+	width: 100px;
+	height: 100px;
+	background-color: indigo;
+	float: right;
+}
 .clearfix:after { 
    content: "."; 
    visibility: hidden; 

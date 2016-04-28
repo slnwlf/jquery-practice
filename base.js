@@ -47,4 +47,12 @@ $(document).ready(function() {
 		$(this).css("background-color", "pink");
 	});
 
+	$("#blue-box").hover(function(){
+		$(this).slideToggle("slow");
+	});
+
+	$("#indigo-box").hover(function(){
+		$(this).append("<p>only hover once!</p>");
+	});
+
 });
