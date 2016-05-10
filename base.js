@@ -1,5 +1,8 @@
 console.log("JS is working!");
 $(document).ready(function() {
+	$("#button0").click(function(){
+		$("#black-box").toggle();
+	});
 	$("#button1").click(function(){
 		$("#red-box").hide();
 	});

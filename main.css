@@ -11,6 +11,12 @@ div {
 .column {
 	height: 120px; 
 }
+#black-box {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	float: right;
+}
 #red-box {
 	width: 100px;
 	height: 100px;
