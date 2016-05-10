@@ -3,6 +3,9 @@ $(document).ready(function() {
 	$("#button1").click(function(){
 		$("#red-box").hide();
 	});
+		$("#button1-show").click(function(){
+		$("#red-box").show();
+	});
 	$("#button2").click(function(){
 	$("#orange-box").fadeOut(2000);
 	});
