@@ -69,6 +69,7 @@ div {
 }
 .da-list:active {
 	border: 5px blue solid;
+	font-size: 30px;
 }
 .no-style {
 	list-style: none; 

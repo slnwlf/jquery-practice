@@ -35,7 +35,7 @@ $(document).ready(function() {
 
 	$("#three").hover(function(){
 		$(this).css("background-color", "yellow");
-		$(this).css("color", "white");
+		// $(this).css("color", "white");
 	}, function(){
 		$(this).css("background-color", "white");
 		$(this).css("color", "black");
